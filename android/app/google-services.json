@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499956158029",
+    "firebase_url": "https://routeopt-1571150551789.firebaseio.com",
+    "project_id": "routeopt-1571150551789",
+    "storage_bucket": "routeopt-1571150551789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499956158029:android:c38e5622829e619bc99604",
+        "android_client_info": {
+          "package_name": "connec.io.route_optimize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499956158029-5hqtp4im7hvjsocvl1vgufofp53q2315.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIkFOmOrU-l1w3ETsr5MZAq_y8BBmqqeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499956158029-5hqtp4im7hvjsocvl1vgufofp53q2315.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
